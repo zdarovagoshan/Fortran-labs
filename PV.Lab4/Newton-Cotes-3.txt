@@ -1,0 +1,15 @@
+Degree of polynomial =        7
+Quantity of segments =    65536
+a =             0.000000000
+b =             1.000000000
+Integral =             1.000000954
+Degree of polynomial =        7
+Quantity of segments =   131072
+a =             0.000000000
+b =             1.000000000
+Integral =             0.999999940
+Degree of polynomial =        7
+Quantity of segments =   262144
+a =             0.000000000
+b =             1.000000000
+Integral =             1.000000000

@@ -1,0 +1,4 @@
+Quantity of segments =     4096
+a =             0.000000000
+b =             2.094395161
+Integral =            -1.500000477
