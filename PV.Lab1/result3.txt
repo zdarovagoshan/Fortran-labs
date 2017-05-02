@@ -1,0 +1,210 @@
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+Sides lenght(a,b,c):
+  1.0000000E+008  1.4142136E+008  1.0000000E+008
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+  5.0000012E+015
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+      45.0000000
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+       0.7071068
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+Sides lenght(a,b,c):
+  1.0000000E+008  1.0049876E+008  1.0000000E+007
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+  4.9999959E+014
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+       5.7105885
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+       0.9950372
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+Sides lenght(a,b,c):
+  1.0000000E+008  1.0000500E+008  1.0000000E+006
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+  4.9999598E+013
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+       0.5730077
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+       0.9999500
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+Sides lenght(a,b,c):
+  1.0000000E+008  1.0000005E+008  100000.0000000
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+  4.9999999E+012
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+       0.0559529
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+       0.9999995
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+Sides lenght(a,b,c):
+  1.0000000E+008  1.0000000E+008   10000.0000000
+ERROR: Coordinates are not set correctly  
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+ERROR: Coordinates are not set correctly  
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+ERROR: Coordinates are not set correctly  
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+ERROR: Coordinates are not set correctly  
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+Sides lenght(a,b,c):
+  1.0000000E+008  1.0000000E+008    1000.0000000
+ERROR: Coordinates are not set correctly  
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+ERROR: Coordinates are not set correctly  
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+ERROR: Coordinates are not set correctly  
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+ERROR: Coordinates are not set correctly  
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+Sides lenght(a,b,c):
+  1.0000000E+008  1.0000000E+008     100.0000000
+ERROR: Coordinates are not set correctly  
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+ERROR: Coordinates are not set correctly  
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+ERROR: Coordinates are not set correctly  
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+ERROR: Coordinates are not set correctly  
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+Sides lenght(a,b,c):
+  1.0000000E+008  1.0000000E+008      10.0000000
+ERROR: Coordinates are not set correctly  
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+ERROR: Coordinates are not set correctly  
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+ERROR: Coordinates are not set correctly  
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+ERROR: Coordinates are not set correctly  
+1 - Write coordinates
+2 - Print square
+3 - Print smallest angle
+4 - Print cos of a smallest angle
+5 - Exit
+*ERR* IO-09 system file error - end of file

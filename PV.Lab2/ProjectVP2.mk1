@@ -1,0 +1,23 @@
+!define BLANK ""
+"C:\Users\ִלטענטי\Documents\ProjectVp\2\file1.obj" : "C:\Users\ִלטענטי\Docum&
+ents\ProjectVp\2\file1.for" .AUTODEPEND
+ @C:
+ cd C:\Users\ִלטענטי\Documents\ProjectVp\2
+ wfc386 file1.for -d2 -q -dep
+
+"C:\Users\ִלטענטי\Documents\ProjectVp\2\ProjectVP2.exe" : "C:\Users\ִלטענטי\&
+Documents\ProjectVp\2\file1.obj" .AUTODEPEND
+ @C:
+ cd C:\Users\ִלטענטי\Documents\ProjectVp\2
+ @%write ProjectVP2.lk1 FIL file1.obj
+ @%append ProjectVP2.lk1 
+!ifneq BLANK ""
+ *wlib -q -n -b ProjectVP2.imp 
+ @%append ProjectVP2.lk1 LIBR ProjectVP2.imp
+!endif
+!ifneq BLANK ""
+ @%append ProjectVP2.lk1 
+!endif
+ *wlink name ProjectVP2 d all sys nt op m op maxe=25 op q op symf @ProjectVP&
+2.lk1
+

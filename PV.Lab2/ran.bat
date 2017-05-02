@@ -1,0 +1,1 @@
+ProjectVP2.exe < test.txt > result.txt

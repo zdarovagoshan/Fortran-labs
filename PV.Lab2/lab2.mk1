@@ -1,0 +1,20 @@
+!define BLANK ""
+J:\4semak\PV.Lab2\file2.obj : J:\4semak\PV.Lab2\file2.for .AUTODEPEND
+ @J:
+ cd J:\4semak\PV.Lab2
+ wfc386 file2.for -d2 -q -dep
+
+J:\4semak\PV.Lab2\lab2.exe : J:\4semak\PV.Lab2\file2.obj .AUTODEPEND
+ @J:
+ cd J:\4semak\PV.Lab2
+ @%write lab2.lk1 FIL file2.obj
+ @%append lab2.lk1 
+!ifneq BLANK ""
+ *wlib -q -n -b lab2.imp 
+ @%append lab2.lk1 LIBR lab2.imp
+!endif
+!ifneq BLANK ""
+ @%append lab2.lk1 
+!endif
+ *wlink name lab2 d all sys nt op m op maxe=25 op q op symf @lab2.lk1
+

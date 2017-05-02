@@ -1,0 +1,20 @@
+!define BLANK ""
+I:\4semak\PV.Lab1\try.obj : I:\4semak\PV.Lab1\try.for .AUTODEPEND
+ @I:
+ cd I:\4semak\PV.Lab1
+ wfc386 try.for -d2 -q -dep
+
+I:\4semak\PV.Lab1\try.exe : I:\4semak\PV.Lab1\try.obj .AUTODEPEND
+ @I:
+ cd I:\4semak\PV.Lab1
+ @%write try.lk1 FIL try.obj
+ @%append try.lk1 
+!ifneq BLANK ""
+ *wlib -q -n -b try.imp 
+ @%append try.lk1 LIBR try.imp
+!endif
+!ifneq BLANK ""
+ @%append try.lk1 
+!endif
+ *wlink name try d all sys nt op m op maxe=25 op q op symf @try.lk1
+
