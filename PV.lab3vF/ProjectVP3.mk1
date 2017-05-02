@@ -1,0 +1,22 @@
+!define BLANK ""
+J:\4semak\PV.lab3vF\main.obj : J:\4semak\PV.lab3vF\main.for .AUTODEPEND
+ @J:
+ cd J:\4semak\PV.lab3vF
+ wfc386 main.for -d2 -q -dep
+
+J:\4semak\PV.lab3vF\ProjectVP3.exe : J:\4semak\PV.lab3vF\main.obj .AUTODEPEN&
+D
+ @J:
+ cd J:\4semak\PV.lab3vF
+ @%write ProjectVP3.lk1 FIL main.obj
+ @%append ProjectVP3.lk1 
+!ifneq BLANK ""
+ *wlib -q -n -b ProjectVP3.imp 
+ @%append ProjectVP3.lk1 LIBR ProjectVP3.imp
+!endif
+!ifneq BLANK ""
+ @%append ProjectVP3.lk1 
+!endif
+ *wlink name ProjectVP3 d all sys nt op m op maxe=25 op q op symf @ProjectVP&
+3.lk1
+
